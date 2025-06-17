@@ -37,15 +37,18 @@ I'm **Tushar Talwekar**, a passionate **Java Full Stack Developer** from Nagpur,
 
 ## 🚀 Projects
 
-### [🏠 HomeBites – Web-Based Tiffin Platform](https://github.com/tushtalwekar12/homebites-nagpur)
+### PROJECT-1  [🏠 HomeBites – Web-Based Tiffin Platform](https://github.com/tushtalwekar12/home-bite)
 - Built a platform connecting tiffin providers with users in Nagpur.  
 - Frontend developed using React.js, with filtering and comparison features.  
 - **Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 
-### [📊 Sorting Visualizer – Web Application](https://github.com/tushtalwekar12/sorting_visualizers)
+### PROJECT-2 [📊 Sorting Visualizer – Web Application](https://github.com/tushtalwekar12/sorting_visualizers)
 - Visualized algorithms like Bubble, Merge, and Quick Sort with real-time animations.  
 - Interactive controls for speed, algorithm, and array size.  
 - **Stack:** HTML, CSS, JavaScript
+
+### PROJECT-3 [CareerNest Platform](https://github.com/tushtalwekar12/start_up-main)
+
 
 ---
 
